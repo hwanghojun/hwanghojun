@@ -3,10 +3,8 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=4885)](https://velog.io/@4885) 
 #### stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java Spring Boot Framework](https://img.shields.io/badge/Java%20Spring%20Boot%20Framework-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
